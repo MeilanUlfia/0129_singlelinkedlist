@@ -7,3 +7,10 @@ public:
     int noMhs;
     Node *next;
 };
+
+class List
+{
+    Node *START;
+
+
+}
