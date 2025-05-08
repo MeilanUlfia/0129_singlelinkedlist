@@ -58,5 +58,10 @@ public:
     }
 
     bool listEmpty()
+    {
+        return (START == NULL);
+    }
+
     
-}
+};
+
